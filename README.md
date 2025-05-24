@@ -2,8 +2,11 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/eawhvp0h2215rqhj?svg=true)](https://ci.appveyor.com/project/Saektide/app)
 [![DeepScan grade](https://deepscan.io/api/teams/9325/projects/11662/branches/175184/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9325&pid=11662&bid=175184)
 
-* [Download](https://github.com/e6Hub/app/releases/latest)
-* [Changelog](https://github.com/e6Hub/app/blob/master/CHANGELOG.md#changelog)
+* [Download](https://github.com/nikito2223/fluzo/releases/latest)
+* [Changelog](https://github.com/nikito2223/fluzo/blob/master/CHANGELOG.md#changelog)
+
+### Creater this program
+* https://github.com/e6Hub
 
 ## 🌟 Features
 * Fetch, list (save temporally on your session) and download posts and pools
@@ -24,6 +27,7 @@
 | ------------- | -------: | ------------: |
 | English       | 100%     | Saektide      |
 | Spanish       | 100%     | Saektide      |
+| Russiun       |   0%     | Saektide      |
 
 ## 🖥 Machine requirements
 | Component | Minimum | Recommended |
@@ -94,12 +98,12 @@ npm run build
 ## ❓ FAQ
 
 ### Can i download multiple pools/posts at the same time?
-You can download only one pool at the time. e6Hub will mark posts (and pools) as "pending" to avoid saturate e621's servers.
+You can download only one pool at the time. Fluzo will mark posts (and pools) as "pending" to avoid saturate rufik's servers.
 
 ### Can i see blacklisted posts on this app?
 No, Fluzo's global blacklist works on server-side.
 
-### e6Hub have telemetry?
+### Fluzo have telemetry?
 No. And we wont include that feature on our app.
 
 ### I want to report a bug or give my feedback, where should i go?
