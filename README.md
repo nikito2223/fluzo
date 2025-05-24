@@ -1,6 +1,7 @@
 # Fluzo
 [![Build status](https://ci.appveyor.com/api/projects/status/eawhvp0h2215rqhj?svg=true)](https://ci.appveyor.com/project/Saektide/app)
-[![DeepScan grade](https://deepscan.io/api/teams/9325/projects/11662/branches/175184/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9325&pid=11662&bid=175184)
+[![DeepScan grade](https://deepscan.io/api/teams/9325/projects/11662/branches/175184/badge/grade.svg)](https://deepscan.io/dashboard/#view=project&tid=27105&pid=29693&bid=949440)
+
 
 * [Download](https://github.com/nikito2223/fluzo/releases/latest)
 * [Changelog](https://github.com/nikito2223/fluzo/blob/master/CHANGELOG.md#changelog)
